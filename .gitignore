@@ -1,0 +1,15 @@
+# Oracle SQL Developer settings and cache
+.sqldev/
+sqldeveloper/
+
+# Toad for Oracle settings
+ClientFiles/
+*.toad
+
+# General OS files
+.DS_Store
+Thumbs.db
+
+# Backup or log files
+*.log
+*.bak
