@@ -1,9 +1,7 @@
 # PL/SQL GOTO Statements and Functions
 
 **Course:** Database Development with PL/SQL  
-
 **Assignment:** Individual Assignment III - PL/SQL GOTO Statements and Functions  
-
 **Name:** CYUSA Bruno  
 **ID:** 29844  
 
@@ -241,7 +239,7 @@ select count(*) from employees;    -- expect 10
 
 # Notes
 
-**Use of an AI assistant:** I used an AI-powered research and note-taking tool developed by Google **(Gemimni Notebook)** which has access to my notes while working on this assignment, i used it to review my code and find errors that i might have missed (for example a `crate` typo, a wrong variable name, and an oversized `varchar2`), to explain concepts such as `GOTO` scope rules, `NVL`, `no_data_found`, and progressive tax and also to understand some errors.  
+**Use of an AI assistant:** I used an AI-powered research and note-taking tool developed by Google **(Gemini Notebook)** which has access to my notes while working on this assignment, i used it to review my code and find errors that i might have missed (for example a `crate` typo for `create`, a wrong variable name, and an oversized `varchar2`), to explain concepts such as `GOTO` scope rules, `NVL`, `no_data_found`, and progressive tax and also to understand some errors.  
 
 The assumptions listed above were my decisions. I have read every file in this repository and can explain it.
 
