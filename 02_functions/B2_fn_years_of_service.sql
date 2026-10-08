@@ -27,4 +27,5 @@ select employee_id,
 from   employees
 order  by employee_id;
 
+
 commit;
